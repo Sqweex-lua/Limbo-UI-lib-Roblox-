@@ -32,5 +32,5 @@ end)
 ##  Getting Started
 
 ```lua
-local UI = loadstring(game:HttpGet("https://github.com/Sqweex-lua/Limbo-UI-lib-Roblox-"))()
+local UI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sqweex-lua/Limbo-UI-lib-Roblox-/refs/heads/main/library.lua"))()
 ```
